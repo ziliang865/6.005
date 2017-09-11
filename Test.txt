@@ -1,3 +1,4 @@
 This is a test file ~
 This is Test Modification
 This is a Test Modification on local machine ~
+This is a conflict line
