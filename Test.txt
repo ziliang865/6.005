@@ -1,4 +1,8 @@
 This is a test file ~
 This is Test Modification
 This is a Test Modification on local machine ~
+<<<<<<< HEAD
 This is a conflict two line~
+=======
+This is a conflict line
+>>>1>>>> 18094070aeba4a5b9138cb13fd819141f9b9c1cd
